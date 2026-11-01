@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Audio datasets
+dataset/
+
+# Model files
+models/
+*.pkl
+*.joblib
+*.keras
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.env.*
+
+# IDE
+.vscode/
